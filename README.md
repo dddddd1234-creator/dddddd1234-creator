@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dddddd1234-creator
-- 👀 I’m interested in a lot of cool things! (coding , quantum mechanics , ...)
+- 👀 I’m interested in a lot of crazy things!
 - 🌱 I’m currently learning how to work on projects using C++!
 - 💞️ I’m looking to collaborate on WOPSLANG!
 - 📫 How to reach me ... no way.. sorry
